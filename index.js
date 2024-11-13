@@ -1,5 +1,5 @@
 function greet() {
-  console.log("m testing nowwwwwwwwww");
+  console.log("Hello from the main branch!");
 }
 
 greet();
